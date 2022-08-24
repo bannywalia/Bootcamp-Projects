@@ -9,5 +9,5 @@
 Open your favorite web browser and enter the following web address to access. 
 
 ```html
-https://bannywalia.github.io/Bootcamp-Projects/
+https://bannywalia.github.io/HTML-CSS-refactor/
 ```
